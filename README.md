@@ -1,6 +1,5 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Arthur</h1>
-<h3 align="center">Learning to become a frontend developer</h3>
+<h3 align="center">Trying to become a frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
